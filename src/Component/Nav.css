@@ -1,0 +1,26 @@
+.nav{
+    
+    /* Nearest rides */
+    display: flex;
+    gap: 15px;
+        position: relative;
+        margin-left: 25px;
+    
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 22px;
+        /* identical to box height */
+        cursor: pointer;
+        color: #FFFFFF;
+}
+.nav :hover{
+
+            overflow: visible;
+            white-space: normal;
+            width: auto;
+            opacity: 0.5;
+
+        
+}
